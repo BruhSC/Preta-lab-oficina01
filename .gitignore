@@ -1,0 +1,18 @@
+# Ignorar arquivos e pastas do VS Code
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar histórico de terminal
+.bash_history
+.lesshst
+
+# Ignorar node_modules (se usar Node.js)
+node_modules/
+
+# Ignorar sistema
+Thumbs.db
+.DS_Store
