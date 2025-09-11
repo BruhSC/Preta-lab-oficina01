@@ -4,4 +4,5 @@ Criando um repositório a partir da branch feature
 # nova branch adicionada
 # testando adição de novo commit
 ## testando git rebase 
+# criando um conflito
 # tentando novamente
